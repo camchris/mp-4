@@ -2,7 +2,7 @@
 
 import styled from "styled-components";
 
-import { use, useState } from "react";
+import { useState } from "react";
 import Link from "next/link";
 
 const StyledDiv=styled.div`
